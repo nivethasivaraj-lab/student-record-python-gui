@@ -1,2 +1,28 @@
-# student-record-python-gui
-A GUI application built with Python (Tkinter) to insert student records into a MySQL database.
+# Student Record – Python GUI + MySQL
+
+A simple student registration system using Python's Tkinter for the interface and MySQL for data storage.
+
+## 💡 Features
+- GUI form to input student details
+- Insert/save data into MySQL database
+- Clear form function
+- Background image support
+
+## 🛠 Tech Stack
+- Python
+- Tkinter
+- MySQL
+- Pillow (for image rendering)
+
+## 🧠 What I Learned
+- Connecting Python to MySQL using `mysql.connector`
+- Building GUI with Tkinter
+- Handling images with PIL
+- Executing SQL queries in Python
+
+## 🖼 Screenshot
+*(Optional: upload a screenshot of the app window and paste the link here)*
+
+## 👩‍💻 Author
+**S. Nivetha**
+
