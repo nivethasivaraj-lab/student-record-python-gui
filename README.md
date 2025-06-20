@@ -19,10 +19,6 @@ A simple student registration system using Python's Tkinter for the interface an
 - Building GUI with Tkinter
 - Handling images with PIL
 - Executing SQL queries in Python
-
-## 🖼 Screenshot
-*(Optional: upload a screenshot of the app window and paste the link here)*
-
 ## 👩‍💻 Author
 **S. Nivetha**
 
